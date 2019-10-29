@@ -5,6 +5,6 @@ This is a small lab assignment that implements some data structures using kernel
 I do not recommend doing this outside of a virtual machine.
 
 # Instructions
-Build the project using the Makefile and insert the kernel module. 
+Build the project using the Makefile and insert the kernel module. This requires you to have the kernel headers on the machine that is building this project.   
 Upon insertion the module will run a sample of data structures and print out results to dmesg.
 
